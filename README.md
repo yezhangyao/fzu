@@ -1,0 +1,4 @@
+fzu
+===
+
+scrips for bioinfomatic
